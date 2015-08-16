@@ -27,7 +27,7 @@ img {
 	stroke-dasharray:1340;
 /*	animation: draw 80s linear;*/
 	animation-play-state: paused;
-	animation: draw 23s linear;
+	animation: draw 8s linear;
 	fill-opacity: 0;
 }
 

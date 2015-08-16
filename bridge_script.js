@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
 setInterval(function() { 
-	$("img").fadeIn(9000);
-}, 6000);
+	$("img").fadeIn(5000);
+}, 1200);
 
 });
